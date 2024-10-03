@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/MagnoAlberto/minha-lib-000.git"
+        }
+    ],
+    "require": {
+        "empresa/minha-lib": "^1.0"
+    }
+}
